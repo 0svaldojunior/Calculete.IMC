@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/v.s.games/Cursos/Udemy/Flutter/calculadora_imc/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/v.s.games/Cursos/Udemy/Flutter/calculadora_imc/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/v.s.games/Cursos/Udemy/Flutter/calculadora_imc/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/v.s.games/Cursos/Udemy/Flutter/calculadora_imc/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/v.s.games/Cursos/Udemy/Flutter/calculadora_imc/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/v.s.games/Cursos/Udemy/Flutter/calculadora_imc/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/v.s.games/Cursos/Udemy/Flutter/calculadora_imc/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/v.s.games/Cursos/Udemy/Flutter/calculadora_imc/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/v.s.games/Cursos/Udemy/Flutter/calculadora_imc/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/v.s.games/Cursos/Udemy/Flutter/calculadora_imc/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/v.s.games/Cursos/Udemy/Flutter/calculadora_imc/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/v.s.games/Cursos/Udemy/Flutter/calculadora_imc/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/v.s.games/Cursos/Udemy/Flutter/calculadora_imc/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/v.s.games/Cursos/Udemy/Flutter/calculadora_imc/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/v.s.games/Cursos/Udemy/Flutter/calculadora_imc/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/v.s.games/Cursos/Udemy/Flutter/calculadora_imc/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/v.s.games/Cursos/Udemy/Flutter/calculadora_imc/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/v.s.games/Cursos/Udemy/Flutter/calculadora_imc/ios/Flutter/Flutter.framework/Headers/Flutter.h
